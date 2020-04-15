@@ -3,7 +3,7 @@ package pe.edu.dps.patterns.creational.factorymethod;
 public class Bici implements Vehiculo{
     @Override
     public void encender() {
-        System.out.println("Las Bicis ono tienen motor");
+        System.out.println("Las Bicis no tienen motor");
     }
 
     @Override
