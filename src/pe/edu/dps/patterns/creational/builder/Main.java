@@ -8,8 +8,10 @@ public class Main {
         System.out.println("***Builder Pattern Demo***");
 
         Director director = new Director();
+
         IBuilder carBuilder = new Car();
         IBuilder motorBuilder = new MotorCycle();
+        IBuilder airBuilder = new Airplain();
 
         // Making Car
         director.construct(carBuilder);
@@ -20,5 +22,10 @@ public class Main {
         director.construct(motorBuilder);
         Product p2 = motorBuilder.getVehicle();
         p2.show();
+
+        //Making Airplane
+        director.construct(airBuilder);
+        Product p3 = airBuilder.getVehicle();
+        p3.show();
     }
 }

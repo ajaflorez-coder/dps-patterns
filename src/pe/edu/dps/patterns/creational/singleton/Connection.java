@@ -9,12 +9,12 @@ public class Connection {
     private static Connection instance;
 
     private Connection() {
+        contador++;
     }
 
     public static synchronized Connection getInstance() {
         if(instance == null) {
             instance = new Connection();
-            contador++;
         }
         return instance;
     }

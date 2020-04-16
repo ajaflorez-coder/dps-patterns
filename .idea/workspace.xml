@@ -5,10 +5,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/dps-patterns/pe/edu/dps/patterns/creational/singleton/Connection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dps-patterns/pe/edu/dps/patterns/creational/singleton/Connection.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/dps-patterns/pe/edu/dps/patterns/creational/singleton/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dps-patterns/pe/edu/dps/patterns/creational/singleton/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dps-patterns/pe/edu/dps/patterns/interfaces/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dps-patterns/pe/edu/dps/patterns/interfaces/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pe/edu/dps/patterns/interfaces/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pe/edu/dps/patterns/interfaces/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pe/edu/dps/patterns/structural/adapter/AdapterShowcase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pe/edu/dps/patterns/structural/adapter/AdapterShowcase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pe/edu/dps/patterns/structural/facade/FacadeShowcase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pe/edu/dps/patterns/structural/facade/FacadeShowcase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pe/edu/dps/patterns/creational/builder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pe/edu/dps/patterns/creational/builder/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pe/edu/dps/patterns/creational/builder2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pe/edu/dps/patterns/creational/builder2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pe/edu/dps/patterns/creational/factorymethod/Creator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pe/edu/dps/patterns/creational/factorymethod/Creator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pe/edu/dps/patterns/creational/factorymethod/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pe/edu/dps/patterns/creational/factorymethod/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pe/edu/dps/patterns/creational/singleton/Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pe/edu/dps/patterns/creational/singleton/Connection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pe/edu/dps/patterns/creational/singleton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pe/edu/dps/patterns/creational/singleton/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +45,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pe/edu/dps/patterns/structural/adapter" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pe/edu/dps/patterns/structural/adapter3" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -53,11 +55,12 @@
       <recent name="pe.edu.dps.patterns.creational.builder2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USUARIO\IdeaProjects\dps-patterns\src\pe\edu\dps\patterns\structural\adapter3" />
       <recent name="C:\Users\USUARIO\IdeaProjects\dps-patterns\src\pe\edu\dps\patterns\structural\adapter" />
       <recent name="C:\Users\USUARIO\IdeaProjects\dps-patterns\src\pe\edu\dps\patterns\structural" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pe.edu.dps.patterns.creational.factorymethod.Main" />
       <module name="dps-patterns" />
@@ -85,11 +88,11 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pe.edu.dps.patterns.interfaces.Main" />
+      <option name="MAIN_CLASS_NAME" value="pe.edu.dps.patterns.structural.adapter3.Main" />
       <module name="dps-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pe.edu.dps.patterns.interfaces.*" />
+          <option name="PATTERN" value="pe.edu.dps.patterns.structural.adapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pe.edu.dps.patterns.structural.adapter2.Main" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.dps.patterns.creational.builder2.Main" />
       <module name="dps-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pe.edu.dps.patterns.structural.adapter2.*" />
+          <option name="PATTERN" value="pe.edu.dps.patterns.creational.builder2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,17 +138,17 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
-      <item itemvalue="Application.Main (4)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -163,7 +166,8 @@
       <workItem from="1586953498827" duration="4499000" />
       <workItem from="1586998789897" duration="23000" />
       <workItem from="1586999668969" duration="2426000" />
-      <workItem from="1587037721798" duration="1581000" />
+      <workItem from="1587037721798" duration="1685000" />
+      <workItem from="1587039585740" duration="4594000" />
     </task>
     <servers />
   </component>
@@ -171,39 +175,39 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="796" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1587038661155">
-      <screen x="62" y="0" width="1858" height="1080" />
+    <state x="2460" y="177" key="#com.intellij.ide.util.MemberChooser" timestamp="1587044682104">
+      <screen x="1920" y="0" width="1366" height="768" />
     </state>
-    <state x="2460" y="177" key="#com.intellij.ide.util.MemberChooser/62.0.1858.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1587000906103" />
+    <state x="2460" y="177" key="#com.intellij.ide.util.MemberChooser/62.0.1858.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1587044682104" />
     <state x="796" y="249" key="#com.intellij.ide.util.MemberChooser/62.0.1858.1080/1920.0.1366.768@62.0.1858.1080" timestamp="1587038661155" />
     <state x="2357" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586870255113">
       <screen x="1920" y="0" width="1366" height="768" />
     </state>
     <state x="2357" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/62.0.1858.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1586870255113" />
-    <state width="1323" height="124" key="GridCell.Tab.0.bottom" timestamp="1587002108093">
+    <state width="1323" height="173" key="GridCell.Tab.0.bottom" timestamp="1587045157523">
       <screen x="1920" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="124" key="GridCell.Tab.0.bottom/62.0.1858.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1587002108093" />
-    <state width="1815" height="295" key="GridCell.Tab.0.bottom/62.0.1858.1080/1920.0.1366.768@62.0.1858.1080" timestamp="1586844367362" />
-    <state width="1323" height="124" key="GridCell.Tab.0.center" timestamp="1587002108093">
+    <state width="1323" height="173" key="GridCell.Tab.0.bottom/62.0.1858.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1587045157523" />
+    <state width="1815" height="194" key="GridCell.Tab.0.bottom/62.0.1858.1080/1920.0.1366.768@62.0.1858.1080" timestamp="1587039446800" />
+    <state width="1323" height="173" key="GridCell.Tab.0.center" timestamp="1587045157523">
       <screen x="1920" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="124" key="GridCell.Tab.0.center/62.0.1858.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1587002108093" />
-    <state width="1815" height="295" key="GridCell.Tab.0.center/62.0.1858.1080/1920.0.1366.768@62.0.1858.1080" timestamp="1586844367362" />
-    <state width="1323" height="124" key="GridCell.Tab.0.left" timestamp="1587002108093">
+    <state width="1323" height="173" key="GridCell.Tab.0.center/62.0.1858.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1587045157523" />
+    <state width="1815" height="194" key="GridCell.Tab.0.center/62.0.1858.1080/1920.0.1366.768@62.0.1858.1080" timestamp="1587039446800" />
+    <state width="1323" height="173" key="GridCell.Tab.0.left" timestamp="1587045157523">
       <screen x="1920" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="124" key="GridCell.Tab.0.left/62.0.1858.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1587002108093" />
-    <state width="1815" height="295" key="GridCell.Tab.0.left/62.0.1858.1080/1920.0.1366.768@62.0.1858.1080" timestamp="1586844367362" />
-    <state width="1323" height="124" key="GridCell.Tab.0.right" timestamp="1587002108093">
+    <state width="1323" height="173" key="GridCell.Tab.0.left/62.0.1858.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1587045157523" />
+    <state width="1815" height="194" key="GridCell.Tab.0.left/62.0.1858.1080/1920.0.1366.768@62.0.1858.1080" timestamp="1587039446800" />
+    <state width="1323" height="173" key="GridCell.Tab.0.right" timestamp="1587045157523">
       <screen x="1920" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="124" key="GridCell.Tab.0.right/62.0.1858.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1587002108093" />
-    <state width="1815" height="295" key="GridCell.Tab.0.right/62.0.1858.1080/1920.0.1366.768@62.0.1858.1080" timestamp="1586844367362" />
-    <state x="2238" y="58" key="SettingsEditor" timestamp="1586953552080">
+    <state width="1323" height="173" key="GridCell.Tab.0.right/62.0.1858.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1587045157523" />
+    <state width="1815" height="194" key="GridCell.Tab.0.right/62.0.1858.1080/1920.0.1366.768@62.0.1858.1080" timestamp="1587039446800" />
+    <state x="2238" y="57" key="SettingsEditor" timestamp="1587039969468">
       <screen x="1920" y="0" width="1366" height="768" />
     </state>
-    <state x="2238" y="58" key="SettingsEditor/62.0.1858.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1586953552080" />
+    <state x="2238" y="57" key="SettingsEditor/62.0.1858.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1587039969468" />
     <state x="494" y="185" key="SettingsEditor/62.0.1858.1080/1920.0.1366.768@62.0.1858.1080" timestamp="1586842488155" />
     <state x="698" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1586867190084">
       <screen x="62" y="0" width="1858" height="1080" />
