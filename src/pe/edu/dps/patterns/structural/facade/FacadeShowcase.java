@@ -10,7 +10,6 @@ public class FacadeShowcase implements Showcase {
         facade = new BusinessFacade();
     }
 
-
     @Override
     public void show() {
         System.out.println("Facade Pattern Showcase");

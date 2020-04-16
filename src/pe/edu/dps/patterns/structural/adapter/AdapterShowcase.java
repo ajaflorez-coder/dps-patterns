@@ -1,6 +1,6 @@
 package pe.edu.dps.patterns.structural.adapter;
 
-import pe.edu.upc.gofdesignpatterns.common.Showcase;
+import pe.edu.dps.common.Showcase;
 
 import java.util.ArrayList;
 import java.util.List;
