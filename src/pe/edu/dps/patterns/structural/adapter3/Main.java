@@ -9,5 +9,6 @@ public class Main {
         audioPlayer.play("vlc", "far far away.vlc");
         audioPlayer.play("avi", "mind me.avi");
         audioPlayer.play("mp5", "dsp.mp5");
+
     }
 }

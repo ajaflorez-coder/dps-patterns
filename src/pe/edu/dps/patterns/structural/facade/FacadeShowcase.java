@@ -1,5 +1,6 @@
 package pe.edu.dps.patterns.structural.facade;
 
+
 import pe.edu.dps.common.Showcase;
 
 public class FacadeShowcase implements Showcase {
@@ -9,6 +10,7 @@ public class FacadeShowcase implements Showcase {
     public FacadeShowcase() {
         facade = new BusinessFacade();
     }
+
 
     @Override
     public void show() {
