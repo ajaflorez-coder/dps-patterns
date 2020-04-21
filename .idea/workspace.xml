@@ -55,13 +55,13 @@
       <recent name="C:\Users\USUARIO\IdeaProjects\dps-patterns\src\pe\edu\dps\patterns\structural\adapter" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProxyPatternDemo">
-    <configuration name="BridgePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pe.edu.dps.patterns.structural.bridge.BridgePatternDemo" />
+  <component name="RunManager" selected="Application.ObserverPatternDemo">
+    <configuration name="ChainPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.dps.patterns.behavioral.chain.ChainPatternDemo" />
       <module name="dps-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pe.edu.dps.patterns.structural.bridge.*" />
+          <option name="PATTERN" value="pe.edu.dps.patterns.behavioral.chain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecoratorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pe.edu.dps.patterns.structural.decorator2.DecoratorPatternDemo" />
+    <configuration name="CommandPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.dps.patterns.behavioral.command.CommandPatternDemo" />
       <module name="dps-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pe.edu.dps.patterns.structural.decorator2.*" />
+          <option name="PATTERN" value="pe.edu.dps.patterns.behavioral.command.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FacadePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pe.edu.dps.patterns.structural.facade2.FacadePatternDemo" />
+    <configuration name="IteratorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.dps.patterns.behavioral.iterator.IteratorPatternDemo" />
       <module name="dps-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pe.edu.dps.patterns.structural.facade2.*" />
+          <option name="PATTERN" value="pe.edu.dps.patterns.behavioral.iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pe.edu.dps.Main" />
+    <configuration name="ObserverPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.dps.patterns.behavioral.observer.ObserverPatternDemo" />
       <module name="dps-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pe.edu.dps.*" />
+          <option name="PATTERN" value="pe.edu.dps.patterns.behavioral.observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,19 +122,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (4)" />
-      <item itemvalue="Application.BridgePatternDemo" />
-      <item itemvalue="Application.DecoratorPatternDemo" />
-      <item itemvalue="Application.FacadePatternDemo" />
       <item itemvalue="Application.ProxyPatternDemo" />
+      <item itemvalue="Application.ChainPatternDemo" />
+      <item itemvalue="Application.CommandPatternDemo" />
+      <item itemvalue="Application.IteratorPatternDemo" />
+      <item itemvalue="Application.ObserverPatternDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObserverPatternDemo" />
+        <item itemvalue="Application.IteratorPatternDemo" />
+        <item itemvalue="Application.CommandPatternDemo" />
+        <item itemvalue="Application.ChainPatternDemo" />
         <item itemvalue="Application.ProxyPatternDemo" />
-        <item itemvalue="Application.FacadePatternDemo" />
-        <item itemvalue="Application.DecoratorPatternDemo" />
-        <item itemvalue="Application.BridgePatternDemo" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +155,7 @@
       <workItem from="1587039585740" duration="4594000" />
       <workItem from="1587064898574" duration="1849000" />
       <workItem from="1587261491781" duration="4676000" />
-      <workItem from="1587433479531" duration="5675000" />
+      <workItem from="1587433479531" duration="13343000" />
     </task>
     <servers />
   </component>
@@ -163,10 +163,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="796" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1587442209015">
+    <state x="796" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1587451861239">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="796" y="249" key="#com.intellij.ide.util.MemberChooser/62.0.1858.1080/-1366.0.1366.768@62.0.1858.1080" timestamp="1587442209015" />
+    <state x="796" y="249" key="#com.intellij.ide.util.MemberChooser/62.0.1858.1080/-1366.0.1366.768@62.0.1858.1080" timestamp="1587451861239" />
     <state x="2460" y="177" key="#com.intellij.ide.util.MemberChooser/62.0.1858.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1587044682104" />
     <state x="796" y="249" key="#com.intellij.ide.util.MemberChooser/62.0.1858.1080/1920.0.1366.768@62.0.1858.1080" timestamp="1587038661155" />
     <state x="2357" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586870255113">
@@ -177,32 +177,32 @@
       <screen x="-1366" y="0" width="1366" height="768" />
     </state>
     <state x="-903" y="138" key="FileChooserDialogImpl/62.0.1858.1080/-1366.0.1366.768@-1366.0.1366.768" timestamp="1587261566263" />
-    <state width="1815" height="266" key="GridCell.Tab.0.bottom" timestamp="1587442441216">
+    <state width="1278" height="266" key="GridCell.Tab.0.bottom" timestamp="1587453353294">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="1323" height="173" key="GridCell.Tab.0.bottom/62.0.1858.1080/-1366.0.1366.768@-1366.0.1366.768" timestamp="1587268929953" />
-    <state width="1815" height="266" key="GridCell.Tab.0.bottom/62.0.1858.1080/-1366.0.1366.768@62.0.1858.1080" timestamp="1587442441216" />
+    <state width="1278" height="266" key="GridCell.Tab.0.bottom/62.0.1858.1080/-1366.0.1366.768@62.0.1858.1080" timestamp="1587453353294" />
     <state width="1323" height="173" key="GridCell.Tab.0.bottom/62.0.1858.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1587045157523" />
     <state width="1815" height="194" key="GridCell.Tab.0.bottom/62.0.1858.1080/1920.0.1366.768@62.0.1858.1080" timestamp="1587039446800" />
-    <state width="1815" height="266" key="GridCell.Tab.0.center" timestamp="1587442441215">
+    <state width="1278" height="266" key="GridCell.Tab.0.center" timestamp="1587453353294">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="1323" height="173" key="GridCell.Tab.0.center/62.0.1858.1080/-1366.0.1366.768@-1366.0.1366.768" timestamp="1587268929953" />
-    <state width="1815" height="266" key="GridCell.Tab.0.center/62.0.1858.1080/-1366.0.1366.768@62.0.1858.1080" timestamp="1587442441215" />
+    <state width="1278" height="266" key="GridCell.Tab.0.center/62.0.1858.1080/-1366.0.1366.768@62.0.1858.1080" timestamp="1587453353294" />
     <state width="1323" height="173" key="GridCell.Tab.0.center/62.0.1858.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1587045157523" />
     <state width="1815" height="194" key="GridCell.Tab.0.center/62.0.1858.1080/1920.0.1366.768@62.0.1858.1080" timestamp="1587039446800" />
-    <state width="1815" height="266" key="GridCell.Tab.0.left" timestamp="1587442441215">
+    <state width="1278" height="266" key="GridCell.Tab.0.left" timestamp="1587453353294">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="1323" height="173" key="GridCell.Tab.0.left/62.0.1858.1080/-1366.0.1366.768@-1366.0.1366.768" timestamp="1587268929953" />
-    <state width="1815" height="266" key="GridCell.Tab.0.left/62.0.1858.1080/-1366.0.1366.768@62.0.1858.1080" timestamp="1587442441215" />
+    <state width="1278" height="266" key="GridCell.Tab.0.left/62.0.1858.1080/-1366.0.1366.768@62.0.1858.1080" timestamp="1587453353294" />
     <state width="1323" height="173" key="GridCell.Tab.0.left/62.0.1858.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1587045157523" />
     <state width="1815" height="194" key="GridCell.Tab.0.left/62.0.1858.1080/1920.0.1366.768@62.0.1858.1080" timestamp="1587039446800" />
-    <state width="1815" height="266" key="GridCell.Tab.0.right" timestamp="1587442441216">
+    <state width="1278" height="266" key="GridCell.Tab.0.right" timestamp="1587453353294">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="1323" height="173" key="GridCell.Tab.0.right/62.0.1858.1080/-1366.0.1366.768@-1366.0.1366.768" timestamp="1587268929953" />
-    <state width="1815" height="266" key="GridCell.Tab.0.right/62.0.1858.1080/-1366.0.1366.768@62.0.1858.1080" timestamp="1587442441216" />
+    <state width="1278" height="266" key="GridCell.Tab.0.right/62.0.1858.1080/-1366.0.1366.768@62.0.1858.1080" timestamp="1587453353294" />
     <state width="1323" height="173" key="GridCell.Tab.0.right/62.0.1858.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1587045157523" />
     <state width="1815" height="194" key="GridCell.Tab.0.right/62.0.1858.1080/1920.0.1366.768@62.0.1858.1080" timestamp="1587039446800" />
     <state x="495" y="80" key="SettingsEditor" timestamp="1587437687569">
