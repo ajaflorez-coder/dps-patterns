@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bb010b65-8ec0-4d62-bb51-3564fc0f96b8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pe/edu/MainBuilder2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pe/edu/dps/patterns/structural/adapter3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pe/edu/dps/patterns/structural/adapter3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pe/edu/dps/patterns/structural/facade/BusinessFacade.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pe/edu/dps/patterns/structural/facade/Category.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pe/edu/dps/patterns/structural/facade/CategoryRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pe/edu/dps/patterns/structural/facade/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pe/edu/dps/patterns/structural/facade/CustomerRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pe/edu/dps/patterns/structural/facade/FacadeShowcase.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +37,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pe/edu/dps/patterns/creational" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pe/edu/dps/patterns/structural/facade2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -56,19 +48,20 @@
       <recent name="pe.edu.dps.patterns.creational.builder2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USUARIO\IdeaProjects\dps-patterns\src\pe\edu\dps\patterns\structural\facade2" />
       <recent name="C:\Users\USUARIO\IdeaProjects\dps-patterns\src\pe\edu\dps\patterns\creational" />
       <recent name="C:\Users\USUARIO\IdeaProjects\dps-patterns\src\pe\edu\dps\patterns\structural" />
       <recent name="C:\Users\USUARIO\IdeaProjects\dps-patterns\src\pe\edu\dps\patterns\structural\adapter3" />
       <recent name="C:\Users\USUARIO\IdeaProjects\dps-patterns\src\pe\edu\dps\patterns\structural\adapter" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pe.edu.dps.patterns.creational.factorymethod.Main" />
+  <component name="RunManager" selected="Application.ProxyPatternDemo">
+    <configuration name="BridgePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.dps.patterns.structural.bridge.BridgePatternDemo" />
       <module name="dps-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pe.edu.dps.patterns.creational.factorymethod.*" />
+          <option name="PATTERN" value="pe.edu.dps.patterns.structural.bridge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pe.edu.dps.patterns.creational.singleton.Main" />
+    <configuration name="DecoratorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.dps.patterns.structural.decorator2.DecoratorPatternDemo" />
       <module name="dps-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pe.edu.dps.patterns.creational.singleton.*" />
+          <option name="PATTERN" value="pe.edu.dps.patterns.structural.decorator2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pe.edu.dps.patterns.structural.adapter3.Main" />
+    <configuration name="FacadePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.dps.patterns.structural.facade2.FacadePatternDemo" />
       <module name="dps-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pe.edu.dps.patterns.structural.adapter3.*" />
+          <option name="PATTERN" value="pe.edu.dps.patterns.structural.facade2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,25 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pe.edu.dps.patterns.creational.builder2.Main" />
+    <configuration name="ProxyPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.dps.patterns.structural.proxy2.ProxyPatternDemo" />
       <module name="dps-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pe.edu.dps.patterns.creational.builder2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pe.edu.dps.patterns.interfaces.Main" />
-      <module name="dps-patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pe.edu.dps.patterns.interfaces.*" />
+          <option name="PATTERN" value="pe.edu.dps.patterns.structural.proxy2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,19 +122,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (5)" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Main (2)" />
-      <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.BridgePatternDemo" />
+      <item itemvalue="Application.DecoratorPatternDemo" />
+      <item itemvalue="Application.FacadePatternDemo" />
+      <item itemvalue="Application.ProxyPatternDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProxyPatternDemo" />
+        <item itemvalue="Application.FacadePatternDemo" />
+        <item itemvalue="Application.DecoratorPatternDemo" />
+        <item itemvalue="Application.BridgePatternDemo" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +154,8 @@
       <workItem from="1587037721798" duration="1685000" />
       <workItem from="1587039585740" duration="4594000" />
       <workItem from="1587064898574" duration="1849000" />
-      <workItem from="1587261491781" duration="1137000" />
+      <workItem from="1587261491781" duration="4676000" />
+      <workItem from="1587433479531" duration="5675000" />
     </task>
     <servers />
   </component>
@@ -182,9 +163,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2460" y="177" key="#com.intellij.ide.util.MemberChooser" timestamp="1587044682104">
-      <screen x="1920" y="0" width="1366" height="768" />
+    <state x="796" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1587442209015">
+      <screen x="62" y="0" width="1858" height="1080" />
     </state>
+    <state x="796" y="249" key="#com.intellij.ide.util.MemberChooser/62.0.1858.1080/-1366.0.1366.768@62.0.1858.1080" timestamp="1587442209015" />
     <state x="2460" y="177" key="#com.intellij.ide.util.MemberChooser/62.0.1858.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1587044682104" />
     <state x="796" y="249" key="#com.intellij.ide.util.MemberChooser/62.0.1858.1080/1920.0.1366.768@62.0.1858.1080" timestamp="1587038661155" />
     <state x="2357" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586870255113">
@@ -195,30 +177,39 @@
       <screen x="-1366" y="0" width="1366" height="768" />
     </state>
     <state x="-903" y="138" key="FileChooserDialogImpl/62.0.1858.1080/-1366.0.1366.768@-1366.0.1366.768" timestamp="1587261566263" />
-    <state width="1323" height="173" key="GridCell.Tab.0.bottom" timestamp="1587045157523">
-      <screen x="1920" y="0" width="1366" height="768" />
+    <state width="1815" height="266" key="GridCell.Tab.0.bottom" timestamp="1587442441216">
+      <screen x="62" y="0" width="1858" height="1080" />
     </state>
+    <state width="1323" height="173" key="GridCell.Tab.0.bottom/62.0.1858.1080/-1366.0.1366.768@-1366.0.1366.768" timestamp="1587268929953" />
+    <state width="1815" height="266" key="GridCell.Tab.0.bottom/62.0.1858.1080/-1366.0.1366.768@62.0.1858.1080" timestamp="1587442441216" />
     <state width="1323" height="173" key="GridCell.Tab.0.bottom/62.0.1858.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1587045157523" />
     <state width="1815" height="194" key="GridCell.Tab.0.bottom/62.0.1858.1080/1920.0.1366.768@62.0.1858.1080" timestamp="1587039446800" />
-    <state width="1323" height="173" key="GridCell.Tab.0.center" timestamp="1587045157523">
-      <screen x="1920" y="0" width="1366" height="768" />
+    <state width="1815" height="266" key="GridCell.Tab.0.center" timestamp="1587442441215">
+      <screen x="62" y="0" width="1858" height="1080" />
     </state>
+    <state width="1323" height="173" key="GridCell.Tab.0.center/62.0.1858.1080/-1366.0.1366.768@-1366.0.1366.768" timestamp="1587268929953" />
+    <state width="1815" height="266" key="GridCell.Tab.0.center/62.0.1858.1080/-1366.0.1366.768@62.0.1858.1080" timestamp="1587442441215" />
     <state width="1323" height="173" key="GridCell.Tab.0.center/62.0.1858.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1587045157523" />
     <state width="1815" height="194" key="GridCell.Tab.0.center/62.0.1858.1080/1920.0.1366.768@62.0.1858.1080" timestamp="1587039446800" />
-    <state width="1323" height="173" key="GridCell.Tab.0.left" timestamp="1587045157523">
-      <screen x="1920" y="0" width="1366" height="768" />
+    <state width="1815" height="266" key="GridCell.Tab.0.left" timestamp="1587442441215">
+      <screen x="62" y="0" width="1858" height="1080" />
     </state>
+    <state width="1323" height="173" key="GridCell.Tab.0.left/62.0.1858.1080/-1366.0.1366.768@-1366.0.1366.768" timestamp="1587268929953" />
+    <state width="1815" height="266" key="GridCell.Tab.0.left/62.0.1858.1080/-1366.0.1366.768@62.0.1858.1080" timestamp="1587442441215" />
     <state width="1323" height="173" key="GridCell.Tab.0.left/62.0.1858.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1587045157523" />
     <state width="1815" height="194" key="GridCell.Tab.0.left/62.0.1858.1080/1920.0.1366.768@62.0.1858.1080" timestamp="1587039446800" />
-    <state width="1323" height="173" key="GridCell.Tab.0.right" timestamp="1587045157523">
-      <screen x="1920" y="0" width="1366" height="768" />
+    <state width="1815" height="266" key="GridCell.Tab.0.right" timestamp="1587442441216">
+      <screen x="62" y="0" width="1858" height="1080" />
     </state>
+    <state width="1323" height="173" key="GridCell.Tab.0.right/62.0.1858.1080/-1366.0.1366.768@-1366.0.1366.768" timestamp="1587268929953" />
+    <state width="1815" height="266" key="GridCell.Tab.0.right/62.0.1858.1080/-1366.0.1366.768@62.0.1858.1080" timestamp="1587442441216" />
     <state width="1323" height="173" key="GridCell.Tab.0.right/62.0.1858.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1587045157523" />
     <state width="1815" height="194" key="GridCell.Tab.0.right/62.0.1858.1080/1920.0.1366.768@62.0.1858.1080" timestamp="1587039446800" />
-    <state x="-1048" y="57" key="SettingsEditor" timestamp="1587065942314">
-      <screen x="-1366" y="0" width="1366" height="768" />
+    <state x="495" y="80" key="SettingsEditor" timestamp="1587437687569">
+      <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="-1048" y="57" key="SettingsEditor/62.0.1858.1080/-1366.0.1366.768@-1366.0.1366.768" timestamp="1587065942314" />
+    <state x="495" y="80" key="SettingsEditor/62.0.1858.1080/-1366.0.1366.768@62.0.1858.1080" timestamp="1587437687569" />
     <state x="2238" y="57" key="SettingsEditor/62.0.1858.1080/1920.0.1366.768@1920.0.1366.768" timestamp="1587039969468" />
     <state x="494" y="185" key="SettingsEditor/62.0.1858.1080/1920.0.1366.768@62.0.1858.1080" timestamp="1586842488155" />
     <state x="698" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1586867190084">
