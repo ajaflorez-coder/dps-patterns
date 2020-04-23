@@ -1,7 +1,7 @@
 package pe.edu.dps.patterns.behavioral.iterator;
 
 public class NameRepository implements Container{
-    public String names[] = {"Robert", "John", "Julie", "Lora"};
+    public String names[] = {"Robert", "John", "Julie", "Lora", "Pepe", "Rosa", "Maria"};
 
     @Override
     public Iterator getIterator() {
